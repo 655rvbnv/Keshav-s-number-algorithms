@@ -1,1 +1,1 @@
-# This is a repositry for umber algorithms
+# This is a repositry for number algorithms
